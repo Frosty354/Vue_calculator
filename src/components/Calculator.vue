@@ -111,7 +111,7 @@ export default {
 }
 
 .operator{
-  background-color: orange;
+  background-color:  rgb(236, 95, 70);
   color: white;
 }
 
